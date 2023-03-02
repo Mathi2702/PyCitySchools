@@ -1,6 +1,6 @@
 # Pandas_Challenge
 
-In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
+Create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 ## Background
 You are the new Chief Data Scientist for your city's school district. In this capacity, 
